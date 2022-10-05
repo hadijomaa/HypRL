@@ -4,7 +4,7 @@ We provide here the source code for our paper "Hyp-RL : Hyperparameter Optimizat
 ## Usage
 Run the run_nn_meta.py. 
 ```
-python main.py 
+python run_nn_meta.py 
 ```
 ## Citing Hyp-RL
 -----------
