@@ -9,10 +9,9 @@ python main.py
 ## Citing Hyp-RL
 -----------
 
-To cite Dataset2Vec please reference our arxiv paper:
-
-
-```
-@article{
+@article{jomaa2019hyp,
+  title={Hyp-rl: Hyperparameter optimization by reinforcement learning},
+  author={Jomaa, Hadi S and Grabocka, Josif and Schmidt-Thieme, Lars},
+  journal={arXiv preprint arXiv:1906.11527},
+  year={2019}
 }
-```
