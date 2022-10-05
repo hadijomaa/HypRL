@@ -8,10 +8,11 @@ python main.py
 ```
 ## Citing Hyp-RL
 -----------
-
+```
 @article{jomaa2019hyp,
   title={Hyp-rl: Hyperparameter optimization by reinforcement learning},
   author={Jomaa, Hadi S and Grabocka, Josif and Schmidt-Thieme, Lars},
   journal={arXiv preprint arXiv:1906.11527},
   year={2019}
 }
+```
